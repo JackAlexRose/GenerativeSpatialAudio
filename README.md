@@ -29,7 +29,8 @@ This project uses graphical generative processes such as Boids and Stochastic fu
 ## Getting Started
 
 * Clone the repo
-* Run the .exe in the build folder or open the folder in the Unity editor.
+* Open the folder in the Unity editor.
+* Run the scene 'Sample Scene' or build the project
 
 <!-- CONTACT -->
 ## Contact
