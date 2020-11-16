@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{3f363120-e0a6-4f11-b1c4-ad378087ee53}">
+		<property name="assetPath">
+			<value>basementroomtone.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>105.70216666666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{589f3391-5f22-423c-aa1d-7b3bc1f78a70}</destination>
+		</relationship>
+	</object>
+</objects>

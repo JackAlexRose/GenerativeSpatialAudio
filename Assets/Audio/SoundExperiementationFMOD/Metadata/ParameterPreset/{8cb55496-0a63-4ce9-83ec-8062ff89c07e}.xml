@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{8cb55496-0a63-4ce9-83ec-8062ff89c07e}">
+		<property name="name">
+			<value>NoiseLevel</value>
+		</property>
+		<relationship name="folder">
+			<destination>{9485ce65-b0af-42b0-bfb9-60821e8df416}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{226ea908-2be3-4318-9d19-2e8499c0feab}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{226ea908-2be3-4318-9d19-2e8499c0feab}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<relationship name="modulators">
+			<destination>{5aaead5a-feaa-48e4-96d3-fed5e6e3ead8}</destination>
+		</relationship>
+	</object>
+	<object class="RandomizerModulator" id="{5aaead5a-feaa-48e4-96d3-fed5e6e3ead8}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>cursorPosition</value>
+		</property>
+		<property name="amount">
+			<value>100</value>
+		</property>
+	</object>
+</objects>

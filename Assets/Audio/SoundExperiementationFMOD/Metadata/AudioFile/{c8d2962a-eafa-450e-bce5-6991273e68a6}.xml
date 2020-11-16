@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{c8d2962a-eafa-450e-bce5-6991273e68a6}">
+		<property name="assetPath">
+			<value>134671__quartertone__tt18x16-mlp-rm-v02.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>5.208333333333333</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{589f3391-5f22-423c-aa1d-7b3bc1f78a70}</destination>
+		</relationship>
+	</object>
+</objects>

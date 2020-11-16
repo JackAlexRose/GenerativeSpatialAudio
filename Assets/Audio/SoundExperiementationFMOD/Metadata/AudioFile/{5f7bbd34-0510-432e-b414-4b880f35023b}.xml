@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{5f7bbd34-0510-432e-b414-4b880f35023b}">
+		<property name="assetPath">
+			<value>BGsynth.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>25.907664399092969</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{589f3391-5f22-423c-aa1d-7b3bc1f78a70}</destination>
+		</relationship>
+	</object>
+</objects>
